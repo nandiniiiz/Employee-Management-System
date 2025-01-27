@@ -5,3 +5,7 @@
 
 
 </p>
+
+<h1> Skills</h1>
+<p>Javascript, React, Context Api, Tailwind css and Local Storage handling...</p>
+
